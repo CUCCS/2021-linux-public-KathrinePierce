@@ -182,8 +182,10 @@
 
 # 参考链接
 
-[Vimtutor 中文版教程](https://blog.csdn.net/jack_wang128801/article/details/89607966)
-[vimtutor教程(双语版)](https://blog.csdn.net/zhaoyu106/article/details/72896216)
-[Vim实用技巧——Vim分屏技巧总结](https://blog.csdn.net/wcy23580/article/details/81387188)
+- [Vimtutor 中文版教程](https://blog.csdn.net/jack_wang128801/article/details/89607966)
+
+- [vimtutor教程(双语版)](https://blog.csdn.net/zhaoyu106/article/details/72896216)
+
+- [Vim实用技巧——Vim分屏技巧总结](https://blog.csdn.net/wcy23580/article/details/81387188)
 
 
