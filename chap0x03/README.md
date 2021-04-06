@@ -18,24 +18,35 @@
 - 3.4 localectl
 - 3.5 timedatectl
 - 3.6 loginctl
+
 [![asciicast](https://asciinema.org/a/MBHVeWCK5DXWhLToz8hA6cYIY.svg)](https://asciinema.org/a/MBHVeWCK5DXWhLToz8hA6cYIY)
+
 [![asciicast](https://asciinema.org/a/DEz2ET99ugbyFb9j1d5CUkHah.svg)](https://asciinema.org/a/DEz2ET99ugbyFb9j1d5CUkHah)
+
 #### 第四章 Unit
 - 4.1 含义
 - 4.2 Unit 的状态
 - 4.3 Unit 管理
 - 4.4 依赖关系
+
 [![asciicast](https://asciinema.org/a/kSZIpFRS37mizOL5M4j29X47v.svg)](https://asciinema.org/a/kSZIpFRS37mizOL5M4j29X47v)
+
 #### 第五章 Unit 的配置文件
 - 5.1 概述
 - 5.2 配置文件的状态
 - 5.3 配置文件的格式
 - 5.4 配置文件的区块
+
 [![asciicast](https://asciinema.org/a/fE1I9wGS1sab2FMzkiKyYrzOP.svg)](https://asciinema.org/a/fE1I9wGS1sab2FMzkiKyYrzOP)
+
 #### 第六章 Target
+
 [![asciicast](https://asciinema.org/a/ikgZpDg4byGX86lGQhgi7xbSQ.svg)](https://asciinema.org/a/ikgZpDg4byGX86lGQhgi7xbSQ)
+
 #### 第七章 日志管理
+
 [![asciicast](https://asciinema.org/a/ByoZtdkD2j7H6BICfuf9fAcmN.svg)](https://asciinema.org/a/ByoZtdkD2j7H6BICfuf9fAcmN)
+
 ### (二)、学习Systemd入门教程：实战篇
 #### 基本任务
 - 开机启动
@@ -46,7 +57,9 @@
 - [Service] 区块：启动行为
 - Target 的配置文件
 - 修改配置文件后重启
+
 [![asciicast](https://asciinema.org/a/qeEBKmYpNOos20eR2rMQsuS7V.svg)](https://asciinema.org/a/qeEBKmYpNOos20eR2rMQsuS7V)
+
 ### 五、完成第三章自查清单
 - 如何添加一个用户并使其具备sudo执行程序的权限?
 `adduser <username> <username> ALL=(ALL) ALL`
